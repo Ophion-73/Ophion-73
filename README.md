@@ -1,25 +1,46 @@
-# 👋 Hola, soy Diego Marche Focil
+![Banner de Diego Marche Focil](https://via.placeholder.com/1200x300?text=Banner+de+Diego+Marche+Focil)
 
-### Desarrollador de Videojuegos | Programador | Diseñador de Niveles
+# 👋 Hola, soy **Diego Marche Focil** 
 
-Soy un estudiante de **Ingeniería en Programación y Desarrollo de Videojuegos**, especializado en el uso de **Unity** y **C#**. Mi enfoque actual está en la **programación**, **conceptualización**, y **diseño de niveles**, con la visión de llegar a ser **Director General** en la industria de los videojuegos.
+### 🎮 Desarrollador de Videojuegos | 💻 Programador
 
-### 🛠️ Tecnologías y Habilidades
-- **Lenguajes de Programación**: C, C#
-- **Motor de Desarrollo**: Unity
-- **Diseño de Niveles** y **Conceptualización de Juegos**
-- **Rigger de Modelos de VTuber** en **Live2D Cubism**
-- **Proyectos**: Todos mis proyectos están disponibles en mi perfil de [itch.io](https://aisnek.itch.io).
+---
 
-En el futuro, planeo expandir mis conocimientos hacia **Godot** y **Unreal Engine**.
+Soy un estudiante de **Ingeniería en Programación y Desarrollo de Videojuegos**, especializado en el uso de **Unity** y **C#**. Mi enfoque actual está en la **programación** y **conceptualización** de juegos, con la visión de llegar a ser **Director General** en la industria de los videojuegos.
 
-### 🎓 Educación
-- **Ingeniería en Programación y Desarrollo de Videojuegos**.
+---
 
-### 💼 Colaboraciones y Freelance
+### 🛠️ **Tecnologías y Habilidades**
+| **Categoría**                  | **Detalles**                                       |
+|--------------------------------|----------------------------------------------------|
+| **🔤 Lenguajes de Programación**  | C, C#                                             |
+| **🛠️ Motor de Desarrollo**        | Unity                                             |
+| **🎨 Conceptualización**         | Diseño de Juegos                                   |
+| **🧩 Especialización**            | Rigger de Modelos de VTuber en Live2D Cubism     |
+| **📦 Proyectos**                  | Todos mis proyectos están disponibles en [itch.io](https://aisnek.itch.io) |
+
+---
+
+### 🎓 **Educación**
+- **Ingeniería en Programación y Desarrollo de Videojuegos**
+
+---
+
+### 💼 **Colaboraciones y Freelance**
 Estoy abierto a **colaboraciones** y **trabajos freelance**. Si tienes alguna idea interesante o un proyecto en mente, no dudes en contactarme.
 
-### 📫 Contacto
-- **Email**: cdmx2754@amerike.edu.mx
+---
+
+### 📫 **Contacto**
+- **✉️ Email**: [cdmx2754@amerike.edu.mx](mailto:cdmx2754@amerike.edu.mx)
+
+---
+
+### 🔗 **Redes Sociales**
+- [LinkedIn](https://www.linkedin.com/in/tu-perfil-aqui) | [Twitter](https://twitter.com/tu-usuario-aqui) | [GitHub](https://github.com/tu-usuario-aqui)
+
+---
+
+*¡Gracias por visitar mi perfil! Espero conectar contigo y explorar nuevas oportunidades juntos.*
 
 
