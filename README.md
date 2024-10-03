@@ -1,4 +1,4 @@
-![Banner de Diego Marche Focil](https://via.placeholder.com/1200x300?text=Banner+de+Diego+Marche+Focil)
+![Banner de Diego Marche Focil](Banner.png)
 
 # 👋 Hola, soy **Diego Marche Focil** 
 
