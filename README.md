@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hola, soy Diego Marche Focil
 
-<!--
-**Ophion-73/Ophion-73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador de Videojuegos | Programador | Diseñador de Niveles
 
-Here are some ideas to get you started:
+Soy un estudiante de **Ingeniería en Programación y Desarrollo de Videojuegos**, especializado en el uso de **Unity** y **C#**. Mi enfoque actual está en la **programación**, **conceptualización**, y **diseño de niveles**, con la visión de llegar a ser **Director General** en la industria de los videojuegos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Habilidades
+- **Lenguajes de Programación**: C, C#
+- **Motor de Desarrollo**: Unity
+- **Diseño de Niveles** y **Conceptualización de Juegos**
+- **Rigger de Modelos de VTuber** en **Live2D Cubism**
+- **Proyectos**: Todos mis proyectos están disponibles en mi perfil de [itch.io](https://aisnek.itch.io).
+
+En el futuro, planeo expandir mis conocimientos hacia **Godot** y **Unreal Engine**.
+
+### 🎓 Educación
+- **Ingeniería en Programación y Desarrollo de Videojuegos**.
+
+### 💼 Colaboraciones y Freelance
+Estoy abierto a **colaboraciones** y **trabajos freelance**. Si tienes alguna idea interesante o un proyecto en mente, no dudes en contactarme.
+
+### 📫 Contacto
+- **Email**: cdmx2754@amerike.edu.mx
+
+
